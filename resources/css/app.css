@@ -1,0 +1,17 @@
+.categories{
+    margin: 1%; 
+    width:50%;
+}
+body{
+    width: 100%;
+    height: 100%;
+    background-attachment: fixed;
+    background-size: cover ;
+    background-repeat: no-repeat;
+    background-image: url('C:/Laravel 8 Crash Course/laravel_CRUD/public/img/Pizza_Background.jpg');
+}
+td, th {
+    border: 1px solid rgb(201, 199, 199);
+    text-align: center;
+    padding: 8px;
+}
